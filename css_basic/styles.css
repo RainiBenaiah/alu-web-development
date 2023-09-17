@@ -1,5 +1,8 @@
-body {
+body, main {
 	display: flex;
+}
+body {
+	flex-direction: column;
 }
 main {
 	flex-direction: row;
@@ -13,4 +16,5 @@ aside {
 	flex: 1;
 	overflow-y: auto;
 }
+
 
