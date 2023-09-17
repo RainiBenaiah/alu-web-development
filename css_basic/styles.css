@@ -11,10 +11,32 @@ main {
 article {
 	flex: 2;
 	overflow-y: auto;
+	background: #466368;
+  background: radial-gradient(#648880, #293f50);
 }
 aside {
 	flex: 1;
 	overflow-y: auto;
 }
+header {
+	margin: 0 auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 960px;
+  }
+h1 {
+	 background: #648880;
+  background: linear-gradient(to right, #f6f1d3, #648880 85%, #293f50);
+  }
+h2, h3 {
+	 background: #67b11c;
+  background: linear-gradient(#72c41f, #5c9e19);
+  border: 2px solid #467813;
+  border-radius: 5px;
+  color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 15px 20px;
+  }
+
 
 
