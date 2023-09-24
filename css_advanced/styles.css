@@ -1,0 +1,457 @@
+body {
+    margin: 0px;
+    padding: 30px 0px 0px 0px;
+    font-family: Arial, "source Sans Pro" !important;
+    background: radial-gradient(85.9% 85.9% at 50% 14.1%, rgba(41, 48, 61, 0.00) 0%, #071629 100%), #000;
+}
+
+header,
+footer,
+section {
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.body {
+    position: relative;
+    background: url(), #071629;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: auto;
+}
+
+.logo {
+    display: flex;
+    width: 100%;
+    height: 60%;
+    display: row;
+    justify-content: space-between;
+    background: transparent;
+}
+
+.go {
+    list-style: none;
+    border: none;
+    display: inline-block;
+}
+
+.upcut>a {
+    color: #fff;
+    padding: 21px;
+    font-size: 16px;
+    font-style: normal;
+    text-decoration: none;
+    line-height: none;
+    font-weight: 700;
+}
+
+.bit {
+width: 1448.15px; 
+height: 1055px;
+background: linear-gradient(0deg, black 0%, black 100%), 
+radial-gradient(58.21% 58.21% at 58.21% 29.10%, rgba(41.18, 48.22, 60.51, 0) 0%, #071629 100%)
+}
+
+.image {
+    width: 111.83;
+    height: 12.58;
+    left: 55.18;
+    top: 6.52;
+    position: 'absolute';
+}
+.get {
+    text-align: 'center';
+    color: 'white'; 
+    font-size: 120;
+    font-family: 'Source Sans Pro'; 
+    font-weight: '700'; 
+    word-wrap: 'break-word';
+}
+
+.categories {
+    text-align: 'center'; 
+    color: #FFF; 
+    font-size: 16; 
+    font-family: 'Source Sans Pro';
+    font-weight: '700';
+    word-Wrap: 'break-word';
+    word-spacing: 57px;
+    margin-top: 300px 0px;
+}
+
+.button {
+    text-align: 'center'; 
+    color: #FFF;
+    font-size: 14;
+    font-family: 'Source Sans Pro';
+    font-weight: '600';
+    word-wrap: 'break-word';
+}
+
+.learn {
+    text-align: 'center';
+}
+
+.put {
+    color: '#C271FF'; 
+    font-size: 32; 
+    font-family: 'Source Sans Pro'; 
+    font-weight: '700', 
+    
+}
+
+.pros {
+    color: 'white'; 
+    font-size: 32; 
+    font-Family: 'Source Sans Pro'; 
+    font-weight: '300'; 
+    word-wrap: 'break-word';
+}
+
+.promax {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin: 40px 0px;
+}
+
+.promax>div {
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    width: 9.375rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.promax>div>img {
+    width: 9.375rem;
+    border-radius: 50%;
+    flex-shrink: 0;
+    height: 9.375rem;
+}
+
+.promax>div>h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.125rem;
+    line-height: normal;
+    font-family: Source Sans Pro Arial, Helvetica, sans-serif;
+}
+
+.promax>div>p {
+    font-style: normal;
+    font-family: Source Sans Pro Arial, Helvetica, sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.man {
+    background: '#C271FF';
+    width: 1440;
+    height: 392;
+    padding-top: 85px;
+}
+
+.man1 {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    flex-shrink: 0;
+}
+
+.man1>img {
+    width: 394; 
+    height: 341;
+    border-radius: 50%;
+}
+
+.quot>blockquote {
+    width: 730; 
+    color: 'white'; 
+    font-size: 22; 
+    font-family: 'Source Sans Pro'; 
+    font-weight: '400'; 
+    line-height: 33.60; 
+    word-wrap: 'break-word';
+}
+
+.quot>h1 {
+    color: 'white'; 
+    font-size: 22; 
+    font-family: 'Source Sans Pro'; 
+    font-weight: '700'; 
+    line-height: 33.60; 
+    word-wrap: 'break-word';
+}
+
+.quot>p {
+    color: 'white'; 
+    font-size: 22; 
+    font-family: 'Source Sans Pro'; 
+    font-style: 'italic'; 
+    font-weight: '400'; 
+    line-height: 33.60; 
+    word-wrap: 'break-word';
+}
+
+.Tutor {
+    background-color: #fff;
+    padding-top: 20px ;
+}
+
+.spa {
+    color: #C271FF;
+    font-family: Source Sans Pro;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.Tutor>h1 {
+    color: #071629;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.Tutor>div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 80px;
+    width: 100%;
+}
+
+.tut {
+    width: 255;
+    height: 335; 
+    background: 'white'; 
+    box-shadow: '0px 2px 4px rgba(7, 22, 41, 0.18)';
+    border-radius: 5;
+    
+}
+.tut h2 {
+    color: #071629;
+    font-family: Source Sans Pro;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.tut h3 {
+    color: '#C271FF';
+    font-size: 14; 
+    font-family: 'Source Sans Pro'; 
+    font-weight: '600'; 
+    line-height: 27; 
+    word-wrap: 'break-word';
+}
+.tut div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.tut p {
+    color: rgba(7, 22, 41, 0.50);
+    font-family: Source Sans Pro;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.stars {
+    width: 107;
+    height: 15; 
+    position: 'relative';
+}
+
+.stars>img {
+    width: 15; 
+    height: 15; 
+    left: 0; 
+    top: 0; 
+    position: 'absolute';
+    background: '#C271FF';
+}
+
+.star2 {
+    left: 23;
+}
+
+.star3 {
+    left: 46;
+}
+
+.star4 {
+    left: 69;
+}
+
+.star5 {
+    left: 92;
+    background: '#D8D8D8';
+}
+
+/* Membership */
+.memebership {
+    width: 144; 
+    height: 502; 
+    background: '#071629';
+}
+.memebership>h1 {
+    text-align: 'center';
+   color: 'white'; 
+   font-size: 32;
+   font-family: 'Source Sans Pro'; 
+   font-weight: '300';
+   word-wrap: 'break-word';
+}
+.membership>span {
+    color: '#C271FF';
+    font-size: 32;
+    font-family: 'Source Sans Pro';
+    font-weight: '700';
+    word-wrap: 'break-word';
+}
+.smile>h2 {
+    width: 256;
+    text-align: 'center';
+    color: 'white';
+    font-size: 18;
+    font-Family: 'Source Sans Pro';
+    font-weight: '600';
+    line-height: 26;
+    word-wrap: 'break-word';
+}
+.smile>p {
+    width: 215; 
+    text-align: 'center'; 
+    color: 'white'; 
+    font-size: 14; 
+    font-family: 'Source Sans Pro';
+    font-weight: '400';
+    line-height: 26;
+    word-wrap: 'break-word';
+}
+
+.back {
+    width: 162; 
+    height: 44; 
+    background: '#C271FF'; 
+    border-radius: 22;
+    text-align: 'center';
+    color: 'white';
+    font-size: 14;
+    font-family: 'Source Sans Pro'; 
+    font-Weight: '600'; 
+    word-wrap: 'break-word';
+}
+/* F.Q.R */
+.query {
+    width: 920;
+    height: 707;
+    position: 'relative';
+}
+
+.query>h1 {
+    text-align: 'center';
+    color: '#071629'; 
+    font-size: 60;
+    font-family: 'Source Sans Pro'; 
+    font-weight: '300';
+    word-wrap: 'break-word';
+}
+
+.right {
+    height: 242;
+    position: 'absolute';
+    flex-direction: 'column';
+    justify-content: 'center'; 
+    align-items: 'flex-start';
+    gap: 30; 
+    display: 'inline-flex';
+}
+
+.left {
+    height: 242;  
+    position: 'absolute';
+    flex-direction: 'column';
+    justify-content: 'center'; 
+    align-items: 'flex-start'; 
+    gap: 30;
+    display: 'inline-flex';
+}
+
+.Q2 {
+    left: 0; 
+    top: 465;
+}
+.Q4 {
+    left: 570;
+    top: 465;
+}
+.Q3 {
+    left: 570;
+    top: 149;
+}
+.Q1 {
+    left: 0; 
+    top: 149;
+}
+
+.tex>h2 {
+    color: '#071629'; 
+    font-size: 16; 
+    font-family: 'Source Sans Pro'; 
+    font-weight: '700';
+    word-wrap: 'break-word';
+
+}
+.tex>p {
+    width: 350;
+    color: 'rgba(7, 22, 41, 0.50)'; 
+    font-size: 14;
+    font-family: 'Source Sans Pro';
+    font-weight: '400';
+    line-height: 24; 
+    word-wrap: 'break-word';
+}
+
+.foot {
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.foot>div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.foot>div>div>a>img {
+    width: 1.875rem;
+    height: 1.875rem;
+    flex-shrink: 0;
+}
+
+.foot>p {
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+    
+
